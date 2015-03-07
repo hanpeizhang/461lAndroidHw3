@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geocode Homework</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="edit_message">Enter a Location</string>
+    <string name="button_send">Find</string>
+    <string name="title_activity_geocoder_call">GeocoderCallActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
